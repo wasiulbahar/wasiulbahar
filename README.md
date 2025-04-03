@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wasiulbahar
-- 👀 I’m interested in ... learning code, reading book, listening quran recitation
+- 👀 I’m interested in ... learning code, reading book
 - 🌱 I’m currently learning ... web developing
 - 💞️ I’m looking to collaborate on ... web dev company
 - 📫 How to reach me ...
